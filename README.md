@@ -1,4 +1,5 @@
-# The first file for game resersing engineering.
+# The first file for game reversing engineering
+
 ---
 
 ## Info
@@ -7,11 +8,13 @@ Topic: A949999
 Name: Tamer Vale
 
 ---
-what does the game file contains.
+
+What the game files contain:
+
 <img width="540" height="150" alt="image" src="https://github.com/user-attachments/assets/725b44f1-9605-4170-91e9-bd456cbdf3fe" />
 
 
-The analysis based on chatgpt:
+The analysis (based on ChatGPT):
 
 <img width="637" height="798" alt="image" src="https://github.com/user-attachments/assets/f979627d-5873-44d6-907a-d7ad5c074466" />
 
@@ -19,13 +22,14 @@ The analysis based on chatgpt:
 ---
 ## Summary
 
-Resources recommend from Chatgpt
+Resources recommended by ChatGPT:
 
 <img width="647" height="322" alt="image" src="https://github.com/user-attachments/assets/c8b42aab-ddd4-479b-83e1-0e3c7625e683" />
 
-Today DongDong really understand a lot about reversing an programme, and also, he really want to know what contains within the dll files and other unknown suffix files. BTW, A949999(Tamer Vale) is actually a 18+ games contain sexual elements. 
+Today DongDong learned a lot about reverse engineering a program, and he wants to understand what is contained in the DLL files and other unknown file types. Note: A949999 (Tamer Vale) is an 18+ game that contains sexual content.
 
-What DongDong wanna do for this game is 
-- Understand the logic and workflow of the programme
-- Try to know what each file/part contains and how they combined
-- Use some magic tools(eg. Cheat engine) to improve the game experience.
+What DongDong wants to do for this game:
+
+- Understand the program's logic and workflow.
+- Identify what each file or component contains and how they fit together.
+- Use tools (e.g., Cheat Engine) to experiment with and improve the game experience.
